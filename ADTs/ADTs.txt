@@ -1,0 +1,4 @@
+- Features/operations
+- Don't go into implementation details
+- Mentions what operations are to be performed, but not how they'll be implemented
+- ABSTRACT: gives an implementation-independent view, the process of providing only the essentials and hiding the details
